@@ -2,7 +2,6 @@
 #include <stdio.h>
 
 int main(){
-    printf("Hola Isaac\n");
-    printf("Hola IsaacMena\n");
+    printf("Hola mundo de Emmnauel\n");
     return 0;
 }
